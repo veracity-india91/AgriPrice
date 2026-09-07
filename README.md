@@ -64,6 +64,4 @@ Ketan Deore
 
 Java Full Stack Developer
 
-Ketan Deore
 
-Java Full Stack Developer
